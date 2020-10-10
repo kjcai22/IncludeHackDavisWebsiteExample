@@ -6,4 +6,8 @@ h1 {
     font-family: 'Montseratt';
 }
 
+body {
+    background-color: lightblue
+}
+
 /* Resource for CSS styling basics: https://www.w3schools.com/css/css_intro.asp */
