@@ -15,4 +15,15 @@ body {
     background-color: lightblue
 }
 
+.animation {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    transition: width 3s;
+}
+
+div.animation:hover {
+    width: 300px;
+}
+
 /* Resource for CSS styling basics: https://www.w3schools.com/css/css_intro.asp */
