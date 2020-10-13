@@ -6,6 +6,11 @@ h1 {
     font-family: 'Montseratt';
 }
 
+h3{
+    border-style: double;
+    border-color: coral;
+}
+
 body {
     background-color: lightblue
 }
